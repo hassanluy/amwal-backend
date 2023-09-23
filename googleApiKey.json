@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "amwal-398920",
+  "private_key_id": "31a6c61b3bff7eba3254a79bcdf1b581780e6967",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCL0GaFP57VJxmP\nnf1vqJ/FUbMw2b/WM1zmVJF4zlZfB5OuHMwXmbyRz8fMPqa2EEZ/WuOFA1muSXWZ\nwktcw26U3biWQgZfBbQ0Y259AwVH5KChaUvVFXOyF+e583G0lUmEWOtudG40opjo\nCHHp6rCXh+t5mLfNdl4kOxCSNcuDZC+3tTEV5wev8QHh31kEOf4MtzuSf0pTIlP9\nGfMFyIVhGScR5t6jOl4W2IoZWkuXUma/VeDFl1NA4YwOUxgcd68r5yohSalu3yz5\nT669oIITz8CDb8ngWCLnzYI21HQ/v2RjskqdbqmEyflEzZ8QHmgz++7hri7Ir/Yn\nCcr6cxJZAgMBAAECggEABAs1g+IYrnKQjzJTG7ElWdgolh+eKExZAgJtKLDTF7GI\n6G7FymL0bMU1MqeXO8nRuCpBTV4Q8HUIdTeE5XxzjNOy3ImxVHs+QIulrPDy7Kbk\nrHZ2roWN0JdXaO3tGnt84lqOCKZOb7BKOt/Pp6PVkrRoL56mpkcnpuWcb5YlujmX\nI/Q1J1j5H88vYAo3QJSYcEQY2aetWH8yNidXu5zXBoc/AMz3T5h07k2gplOD2j7S\n7WwDq03NSiDo6qAQ97eL5onekVnSoXYfnyMWPo+v7q/pXmsH3grGRqfkUnure5kY\nOdzvLasQZ/X+e4sPkwZoGOZ1nSumuMbltXct+yQ+QQKBgQC/Kcei1n00iyRD0j0V\nYyj3b+nY+oZS2/9LaRbVEOsjUQfmjDuuvooPTsKnNads45jNeaLb8KN1szEjb39Y\n50ake6pdpIwr/926e9mvqKQRJuduAiLWWd7GlNj4Y28kgy7SSjhyNIwW7Xo7IdIz\n1Gd6okrsAgkNq+8jC9oHQ4XMsQKBgQC7PBqmalgi20mCicfFPlxRQAN1q41TjPFf\nPMIaP5vcpP+OLGZ+5KcNg5qV+xvaNcLCXSO2HkrUT70ZETj1mO3VzV+Pv+DPTqAP\nZArHA3AeOFuV69+4KHSXN9qK/ZofjXyscPiXKdktF7JGM4VLwOIP5kv8pLl4TRZi\njhE/uIRqKQKBgByXWR6Hyg4zyWbDaRNr01K+0FD9l12JPfO/cgTIFQMhOXdH/h0y\nrl9/vilYIwRsPgxtZuhSY4BVHsJYCMn5PV2YiXCcDcL+7+DWaUaWiINwOCkB9Mfu\nhR1aYeE0rgjd/gDBzRN3vIQpXKC/fDr4R8nVwDLwUv5Set/ZA/EWLkrhAoGBAI0w\nibgsQUInsospcueeWuc6KmG1d+ElS27R1l0M0m/UTJHdkXzm18ItF4k5zosCN1dx\n/Nf8h9kKOEKK5jTtmYu8Tu+Lde9eDv0MJ8RjJ0zims23DQFGIIVXrQlaq7pXa0ht\n+EelWwvR7rFZcI7raI0s0Og3H1VEbDjtgLxYXCHhAoGBAI5IVrcuzMmaXmJrCtqD\nvahX5CAei6rEBNq9IlSFgqjpTXyd9Lm7CI6UsMU9g1vq1/Od3N9INGo8aHWtQebU\nFV8GiLtZj/IQC7xPcQZOnur+WMCMAYbpuG2CmC+z1cEpqN79R/mxQO5IeFXHzfEu\naopEFrjLhUc8KXgPZ8ojbyxi\n-----END PRIVATE KEY-----\n",
+  "client_email": "amwal-service@amwal-398920.iam.gserviceaccount.com",
+  "client_id": "111923016038074235996",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amwal-service%40amwal-398920.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
